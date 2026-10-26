@@ -1,6 +1,7 @@
 # PCB-Mount
 
-> **Easier: use the online generator.** Enter your PCB dimensions and download the matching clips as STL, no CAD software needed: [PCB Clip Generator (English)](https://raydiy.com/pcb-clip-generator-en/) · [PCB-Clip-Generator (Deutsch)](https://raydiy.de/pcb-clip-generator/)
+> **Easier: use the online generator.** Enter your PCB dimensions and download the matching clips as STL, no CAD software needed:
+> [PCB Clip Generator (English)](https://raydiy.com/pcb-clip-generator-en/) · [PCB-Clip-Generator (Deutsch)](https://raydiy.de/pcb-clip-generator/)
 >
 > This repository is no longer maintained. The CAD files stay available for anyone who wants to modify the model itself.
 
